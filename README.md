@@ -1,21 +1,21 @@
 # Hi there, I'm Homa Mahmood 👋
 
-🎓 Computer Science Student | 💻 C & java Programmer | 🌱 Always Learning
+ Computer Science Student |  C, python & java Programmer |  Always Learning
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🔭 I'm currently working on **C , python and java programming projects**
-- 🌱 I'm learning **Data Structures, Algorithms, and Web Development**
-- 🏫 Studying Computer Science in **India**
-- 💬 Ask me about **C programming, problem solving**
-- 📫 How to reach me: **homamahmood715@gmail.com]**
-- ⚡ Fun fact: I love turning logic problems into clean code!
+-  I'm currently working on **C , python and java programming projects**
+-  I'm learning **Data Structures, Algorithms, and Web Development**
+-  Studying Computer Science in **India**
+-  Ask me about **C programming, problem solving**
+-  How to reach me: **homamahmood715@gmail.com]**
+-  Fun fact: I love turning logic problems into clean code!
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,7 +43,7 @@
 |---------|-------------|----------|
 | [c-programs](https://github.com/Homamahmood/c-programs) |
 
-> 🚧 More projects coming soon — stay tuned!
+>  More projects coming soon — stay tuned!
 
 
 <p align="center">
