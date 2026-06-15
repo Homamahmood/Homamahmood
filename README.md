@@ -1,6 +1,6 @@
 # Hi there, I'm Homa Mahmood 👋
 
-🎓 Computer Science Student | 💻 C & jva Programmer | 🌱 Always Learning
+🎓 Computer Science Student | 💻 C & java Programmer | 🌱 Always Learning
 
 ---
 
