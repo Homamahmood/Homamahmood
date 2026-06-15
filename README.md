@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **C and java programming projects**
+- 🔭 I'm currently working on **C , python and java programming projects**
 - 🌱 I'm learning **Data Structures, Algorithms, and Web Development**
 - 🏫 Studying Computer Science in **India**
 - 💬 Ask me about **C programming, problem solving**
