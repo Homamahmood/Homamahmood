@@ -1,6 +1,5 @@
 # Hi there, I'm Homa Mahmood 👋
-
- Computer Science Student |  C, python & java Programmer |  Always Learning
+BCA Final Year Student | PHP, MySQL, Java & Python Developer | Building Web Applications | Interested in Software Development & Cloud Technologies
 
 ---
 
