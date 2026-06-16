@@ -2,33 +2,12 @@
 
  BCA Final Year Student  
  Passionate about Software Development & Web Development  
- Currently learning Java, .NET, AWS & Azure  
- Building real-world projects using PHP, MySQL, Java & Python
+ Building real-world projects using PHP, MySQL, Java & Python  
+ Currently learning Cloud Technologies & Software Engineering
 
-## Tech Stack
-- Languages: C, Java, Python, PHP
-- Frontend: HTML, CSS, JavaScript
-- Backend: PHP,flask
-- Database: MySQL
-- Tools: Git, GitHub, VS Code, XAMPP
+## 🛠️ Tech Stack
 
-## Featured Projects
-
-### 🛒 E-Commerce Online Shopping Website
-A PHP & MySQL based shopping platform with authentication, cart system, and product management.
-
-### 📚 Student Task Manager
-Task management system for students.
-
-### 💡 More Projects
-Currently building software projects to improve problem-solving and development skills.
-
-## Currently Learning
-- Data Structures & Algorithms
-- Software Engineering
-- Cloud Technologies (AWS & Azure)
-
-  ### Languages
+### Languages
 ![C](https://img.shields.io/badge/C-Programming-blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00)
 ![Python](https://img.shields.io/badge/Python-3776AB)
@@ -48,6 +27,27 @@ Currently building software projects to improve problem-solving and development 
 
 ---
 
-## Connect With Me
-LinkedIn: Add later  
-Email: gm5433myamu.ac.in
+## 🚀 Featured Projects
+
+### 📚 Student Task Manager
+Task management system for students.
+
+### 💡 More Projects Coming Soon
+Currently building software projects to strengthen development and problem-solving skills.
+
+---
+
+## 📖 Currently Learning
+
+- Software Engineering
+- Data Structures & Algorithms
+- Java Development
+- Cloud Technologies (AWS & Azure)
+
+---
+
+## 📫 Connect With Me
+
+ Email: gm5433myamu.ac.in
+
+ Always learning and building!
