@@ -1,6 +1,6 @@
-# Hi, I'm Homa 👋
+# Hi, I'm Homa Mahmood👋
 
- BCA Final Year Student  
+ Mca first year student, 
  Passionate about Software Development & Web Development  
  Building real-world projects using PHP, MySQL, Java & Python  
  Currently learning Cloud Technologies & Software Engineering
